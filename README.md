@@ -1,5 +1,5 @@
 # geeks3-flume
-GEEKS2 : Flume
+GEEKS3 : Flume
 
 # Lab : Get Log Data with Flume
 
