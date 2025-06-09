@@ -1,7 +1,7 @@
-# geeks2-flume
+# geeks3-flume
 GEEKS2 : Flume
 
-# Lab XX: Get Log Data with Flume
+# Lab : Get Log Data with Flume
 
 - [Upload multiple files to HDFS using FLUME](#upload-multiple-files-to-hdfs-using-flume)
 - [Stream Log data from Syslog to HDFS](#stream-log-data-from-syslog-to-hdfs)
